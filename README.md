@@ -1,5 +1,10 @@
 # program-ai-sederhana
 
+### Penggunaan
+```bash
+>>> node ai
+```
+### Output
 ```
 >>> hi Garuda
 

@@ -1,6 +1,6 @@
 # program-ai-sederhana
 
-```
+```javascript
 >>> hi Garuda
 
 Garuda : Halo Kintaro!

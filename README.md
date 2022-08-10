@@ -1,6 +1,6 @@
 # program-ai-sederhana
 
-```bash
+```
 >>> hi Garuda
 
 Garuda : Halo Kintaro!

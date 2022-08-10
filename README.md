@@ -37,8 +37,7 @@ Garuda : Tentu saja aku mengenal mu, Kintaro
 Garuda : Seharusnya kamu mengatakan "tentang programmer" untuk melihat data diri programmer Garuda
 
 >>> tentang programmer
-```
-```javascript
+
 Garuda : {
   namaLengkap: 'Kintaro Azura Chaniago',
   namaPanggilan: [Function: namaPanggilan],
@@ -46,8 +45,7 @@ Garuda : {
   hobi: [ 'Coding', 'Reading', 'Learning' ],
   bahasaUtama: 'Javascript'
 }
-```
-```
+
 >>> itu kan saya sendiri programmer nya
 
 Garuda : Memang, aku adalah kamu dan aku memprogram diriku sendiri sebagai garuda. dan tahukah kamu? bahwa saat ini kamu sedang berbicara dengan dirimu sendiri :(
